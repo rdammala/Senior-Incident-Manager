@@ -4,7 +4,7 @@ Personal portfolio site for Rajesh Dammala — Senior Incident Manager profile s
 
 ## Live Site
 
-[https://rdammala.github.io/Senior-Incident-Manager/](https://rdammala.github.io/Senior-Incident-Manager/)
+[https://rdammala-org.github.io/Senior-Incident-Manager/](https://rdammala-org.github.io/Senior-Incident-Manager/)
 
 ## Tech Stack
 
